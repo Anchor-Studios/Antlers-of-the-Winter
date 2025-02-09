@@ -24,7 +24,7 @@ Antlers of the Winter is a Minecraft mod that introduces frozen-themed antlers, 
 
 🛠️ Contribution Guidelines
 
-Bug Reports & Suggestions: Use [issues](https://sites.google.com/view/anchorstudios/issues).
+Bug Reports & Suggestions: Use [issues](https://www.anchorstudios.site/issues).
 Pull Requests: Fork the repository, make changes, and submit a pull request.
 Code Style: Follow Minecraft modding conventions.
 
