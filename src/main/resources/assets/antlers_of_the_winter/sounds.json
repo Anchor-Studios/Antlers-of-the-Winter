@@ -1,0 +1,20 @@
+{
+  "hoth.music": {
+    "subtitle": "subtitles.hoth.music",
+    "sounds": [
+      {
+        "name": "antlers_of_the_winter:hothmusic",
+        "stream": true
+      }
+    ]
+  },
+  "hoth.ambient": {
+    "subtitle": "subtitles.hoth.ambient",
+    "sounds": [
+      {
+        "name": "antlers_of_the_winter:hothambientsound",
+        "stream": false
+      }
+    ]
+  }
+}

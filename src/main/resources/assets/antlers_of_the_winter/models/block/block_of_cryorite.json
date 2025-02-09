@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "antlers_of_the_winter:block/cryoriteblock",
+    "up": "antlers_of_the_winter:block/cryoriteblock",
+    "north": "antlers_of_the_winter:block/cryoriteblock",
+    "east": "antlers_of_the_winter:block/cryoriteblock",
+    "south": "antlers_of_the_winter:block/cryoriteblock",
+    "west": "antlers_of_the_winter:block/cryoriteblock",
+    "particle": "antlers_of_the_winter:block/cryoriteblock"
+  },
+  "render_type": "solid"
+}
