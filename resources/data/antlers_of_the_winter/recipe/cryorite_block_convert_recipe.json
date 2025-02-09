@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cryorite",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "antlers_of_the_winter:block_of_cryorite"
+    }
+  ],
+  "result": {
+    "id": "antlers_of_the_winter:cryorite",
+    "count": 9
+  }
+}

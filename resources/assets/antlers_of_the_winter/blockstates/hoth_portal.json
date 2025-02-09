@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "antlers_of_the_winter:block/hoth_portal_ew"
+    },
+    "axis=x": {
+      "model": "antlers_of_the_winter:block/hoth_portal_ns"
+    }
+  }
+}
