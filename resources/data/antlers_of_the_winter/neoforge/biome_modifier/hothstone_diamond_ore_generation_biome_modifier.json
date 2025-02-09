@@ -1,6 +1,0 @@
-{
-  "type": "neoforge:add_features",
-  "biomes": "antlers_of_the_winter:frozen_wastes",
-  "features": "antlers_of_the_winter:hothstone_diamond_ore_generation",
-  "step": "underground_decoration"
-}
