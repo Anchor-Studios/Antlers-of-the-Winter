@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "antlers_of_the_winter:cryorite"
+    }
+  },
+  "result": {
+    "id": "antlers_of_the_winter:block_of_cryorite",
+    "count": 1
+  }
+}

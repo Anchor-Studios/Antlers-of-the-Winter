@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "antlers_of_the_winter:cryorite"
+  },
+  "result": {
+    "id": "antlers_of_the_winter:cryorite_sword"
+  }
+}

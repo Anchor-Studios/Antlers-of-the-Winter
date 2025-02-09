@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "antlers_of_the_winter:blocks/hothstone",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "antlers_of_the_winter:hothstone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "antlers_of_the_winter:custom/horn1_-_json",
+  "textures": {
+    "1": "antlers_of_the_winter:block/antlersofauroria",
+    "particle": "antlers_of_the_winter:item/rimehorn_head"
+  }
+}
