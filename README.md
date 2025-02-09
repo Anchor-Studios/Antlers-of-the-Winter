@@ -17,14 +17,14 @@ Antlers of the Winter is a Minecraft mod that introduces frozen-themed antlers, 
 🔧 Setup Instructions
 
 1. Clone this repository:
-git clone https://github.com/Anchor-Studios/antlers-of-the-winter.git
+[git clone](https://github.com/Anchor-Studios/antlers-of-the-winter.git)
 2. Open the project in IntelliJ IDEA or another supported IDE.
 3. Run gradlew genIntelliJRuns (for IntelliJ) or gradlew genEclipseRuns (for Eclipse).
 4. Start development!
 
 🛠️ Contribution Guidelines
 
-Bug Reports & Suggestions: Use the https://sites.google.com/view/anchorstudios/issues link.
+Bug Reports & Suggestions: Use [issues](https://sites.google.com/view/anchorstudios/issues).
 Pull Requests: Fork the repository, make changes, and submit a pull request.
 Code Style: Follow Minecraft modding conventions.
 
