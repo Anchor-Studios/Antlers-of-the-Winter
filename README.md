@@ -1,4 +1,4 @@
-Antlers of the Winter
+# Antlers of the Winter
 
 Antlers of the Winter is a Minecraft mod that introduces frozen-themed antlers, new biomes, and a custom dimension. This repository contains the full source code and assets for the mod, licensed under CC BY 4.0.
 
